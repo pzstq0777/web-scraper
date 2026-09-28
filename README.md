@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # Type hints added for clarity
 # web-scraper
 
